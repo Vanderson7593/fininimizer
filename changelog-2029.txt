@@ -32,3 +32,4 @@
 [2029-02-21T13:00:00] Fix rounding errors in conversions
 [2029-02-24T11:45:00] Add receipt scanner feature
 [2029-02-25T09:10:00] Implement OCR text extraction
+[2029-02-26T15:30:00] Add receipt data parser
