@@ -436,3 +436,4 @@
 [2029-10-02T11:00:00] Fix bracket boundary calc
 [2029-10-02T13:30:00] Add state tax brackets
 [2029-10-03T12:00:00] Fix deduction eligibility
+[2029-10-03T14:30:00] Add itemized vs standard toggle
