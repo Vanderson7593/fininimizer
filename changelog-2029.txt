@@ -389,3 +389,4 @@
 [2029-08-04T13:30:00] Add context summarization
 [2029-08-05T11:45:00] Fix recommendation filtering
 [2029-08-05T14:15:00] Add recommendation categories
+[2029-08-07T12:00:00] Fix debt calculator inputs
