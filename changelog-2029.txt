@@ -286,3 +286,4 @@
 [2029-03-20T15:30:00] Add split history view
 [2029-03-25T11:00:00] Fix split rounding display
 [2029-03-26T12:30:00] Update goal progress animation
+[2029-03-26T14:45:00] Add goal sharing feature
