@@ -65,3 +65,4 @@
 [2029-04-11T15:30:00] Add investment portfolio view
 [2029-04-14T09:00:00] Implement stock price fetcher
 [2029-04-15T13:45:00] Add portfolio performance charts
+[2029-04-16T10:30:00] Fix chart rendering on mobile
