@@ -513,3 +513,4 @@
 [2029-12-27T11:30:00] Fix goal template defaults
 [2029-12-27T14:00:00] Add goal difficulty levels
 [2029-12-29T11:00:00] Fix sync race condition
+[2029-12-29T14:30:00] Add offline goal editing
