@@ -446,3 +446,4 @@
 [2029-10-14T11:15:00] Fix donation receipt format
 [2029-10-14T13:45:00] Add fair market value calc
 [2029-10-16T11:30:00] Fix harvesting threshold
+[2029-10-16T14:00:00] Add portfolio impact preview
