@@ -473,3 +473,4 @@
 [2029-11-11T16:30:00] Update rewards dashboard
 [2029-11-14T11:30:00] Fix hotel price comparison
 [2029-11-14T14:00:00] Add trip budget estimator
+[2029-11-19T11:00:00] Fix deal expiration tracking
