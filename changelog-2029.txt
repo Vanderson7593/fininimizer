@@ -478,3 +478,4 @@
 [2029-11-19T16:00:00] Update price comparison engine
 [2029-11-21T11:30:00] Fix wishlist priority sorting
 [2029-11-21T14:00:00] Add price drop notifications
+[2029-11-25T12:00:00] Fix review data aggregation
