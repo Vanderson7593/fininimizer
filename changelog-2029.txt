@@ -243,3 +243,4 @@
 [2029-12-24T10:15:00] Add holiday spending summary
 [2029-12-26T15:00:00] Implement New Year financial goals
 [2029-12-27T09:45:00] Add goal template library
+[2029-12-29T13:00:00] Fix goal sync across accounts
