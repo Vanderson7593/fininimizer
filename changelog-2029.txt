@@ -29,3 +29,4 @@
 [2029-02-17T10:00:00] Add multi-currency support
 [2029-02-18T16:20:00] Implement exchange rate API
 [2029-02-19T09:30:00] Add currency conversion cache
+[2029-02-21T13:00:00] Fix rounding errors in conversions
