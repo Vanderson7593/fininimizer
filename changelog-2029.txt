@@ -233,3 +233,4 @@
 [2029-12-10T09:00:00] Add coast FIRE projections
 [2029-12-11T16:20:00] Fix compound interest accuracy
 [2029-12-12T10:00:00] Add subscription audit tool
+[2029-12-13T14:15:00] Implement unused subscription detection
