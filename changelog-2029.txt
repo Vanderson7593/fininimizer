@@ -60,3 +60,4 @@
 [2029-04-04T16:00:00] Fix duplicate transaction detection
 [2029-04-07T11:30:00] Add credit card tracking
 [2029-04-08T09:45:00] Implement statement parser
+[2029-04-09T14:20:00] Add payment due date reminders
