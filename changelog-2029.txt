@@ -80,3 +80,4 @@
 [2029-05-06T15:45:00] Fix false positive alerts
 [2029-05-07T09:00:00] Add merchant categorization
 [2029-05-08T13:30:00] Implement logo fetcher for merchants
+[2029-05-09T10:45:00] Add merchant search functionality
