@@ -423,3 +423,4 @@
 [2029-09-12T13:30:00] Add scan result caching
 [2029-09-17T11:15:00] Fix credit score data source
 [2029-09-17T14:00:00] Add multi-bureau support
+[2029-09-17T16:30:00] Update score display format
