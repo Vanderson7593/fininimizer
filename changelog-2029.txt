@@ -514,3 +514,4 @@
 [2029-12-27T14:00:00] Add goal difficulty levels
 [2029-12-29T11:00:00] Fix sync race condition
 [2029-12-29T14:30:00] Add offline goal editing
+[2029-12-30T12:00:00] Fix release notes formatting
