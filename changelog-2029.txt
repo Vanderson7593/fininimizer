@@ -424,3 +424,4 @@
 [2029-09-17T11:15:00] Fix credit score data source
 [2029-09-17T14:00:00] Add multi-bureau support
 [2029-09-17T16:30:00] Update score display format
+[2029-09-23T11:00:00] Fix dispute template merge
