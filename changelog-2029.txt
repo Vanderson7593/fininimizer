@@ -68,3 +68,4 @@
 [2029-04-16T10:30:00] Fix chart rendering on mobile
 [2029-04-17T16:15:00] Add dividend tracking
 [2029-04-22T09:30:00] Implement tax lot accounting
+[2029-04-23T14:00:00] Add capital gains calculator
