@@ -54,3 +54,4 @@
 [2029-03-27T15:30:00] Implement goal milestones
 [2029-03-28T09:00:00] Add visual progress indicators
 [2029-03-31T13:20:00] Fix goal completion calculations
+[2029-04-01T10:00:00] Add bank account linking
