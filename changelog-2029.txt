@@ -440,3 +440,4 @@
 [2029-10-03T17:00:00] Update deduction categories
 [2029-10-07T11:30:00] Fix estimated payment schedule
 [2029-10-07T14:00:00] Add penalty calculator
+[2029-10-09T11:00:00] Fix W-2 parser edge case
