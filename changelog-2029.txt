@@ -399,3 +399,4 @@
 [2029-08-14T16:00:00] Update simulation parameters
 [2029-08-19T12:00:00] Fix insurance data import
 [2029-08-19T14:30:00] Add coverage gap detection
+[2029-08-22T11:15:00] Fix premium calc formula
