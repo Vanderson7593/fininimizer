@@ -499,3 +499,4 @@
 [2029-12-12T11:30:00] Fix audit scan frequency
 [2029-12-12T14:00:00] Add unused trial detection
 [2029-12-12T16:30:00] Update audit notification copy
+[2029-12-16T11:00:00] Fix price increase tracking
