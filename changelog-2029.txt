@@ -369,3 +369,4 @@
 [2029-07-15T14:00:00] Add age verification
 [2029-07-15T16:30:00] Update child account UI
 [2029-07-18T11:00:00] Fix literacy module ordering
+[2029-07-18T13:30:00] Add difficulty progression
