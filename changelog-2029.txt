@@ -283,3 +283,4 @@
 [2029-03-14T13:45:00] Add custom recurrence rules
 [2029-03-14T16:00:00] Fix DST transition handling
 [2029-03-20T13:00:00] Update split UI components
+[2029-03-20T15:30:00] Add split history view
