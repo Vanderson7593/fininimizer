@@ -359,3 +359,4 @@
 [2029-07-02T12:00:00] Fix NLP entity extraction
 [2029-07-02T14:30:00] Add intent classification
 [2029-07-03T12:30:00] Fix voice entry amount parsing
+[2029-07-03T15:00:00] Add currency voice detection
