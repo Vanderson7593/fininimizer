@@ -372,3 +372,4 @@
 [2029-07-18T13:30:00] Add difficulty progression
 [2029-07-22T11:30:00] Fix quiz score calculation
 [2029-07-22T14:00:00] Add quiz retry logic
+[2029-07-24T11:00:00] Fix badge unlock conditions
