@@ -491,3 +491,4 @@
 [2029-12-05T11:30:00] Fix growth chart axis
 [2029-12-05T14:00:00] Add income source breakdown
 [2029-12-05T16:30:00] Update income trend line
+[2029-12-09T11:00:00] Fix FIRE number formula
