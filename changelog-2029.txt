@@ -447,3 +447,4 @@
 [2029-10-14T13:45:00] Add fair market value calc
 [2029-10-16T11:30:00] Fix harvesting threshold
 [2029-10-16T14:00:00] Add portfolio impact preview
+[2029-10-20T11:00:00] Fix contribution tracking
