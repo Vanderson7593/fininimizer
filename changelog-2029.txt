@@ -486,3 +486,4 @@
 [2029-12-02T12:30:00] Fix summary data queries
 [2029-12-02T15:00:00] Add summary email template
 [2029-12-02T17:30:00] Update summary share options
+[2029-12-03T11:00:00] Fix category percentage calc
