@@ -338,3 +338,4 @@
 [2029-06-04T14:30:00] Fix HSL conversion
 [2029-06-09T11:00:00] Fix typography scaling
 [2029-06-09T14:30:00] Add line height adjustments
+[2029-06-10T11:45:00] Fix screen reader focus order
