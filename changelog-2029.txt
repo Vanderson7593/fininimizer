@@ -311,3 +311,4 @@
 [2029-04-29T11:00:00] Fix quarterly date ranges
 [2029-04-29T14:30:00] Add custom date range picker
 [2029-04-30T12:00:00] Fix report currency display
+[2029-04-30T15:30:00] Update report template styles
