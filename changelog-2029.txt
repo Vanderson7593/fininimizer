@@ -73,3 +73,4 @@
 [2029-04-25T15:20:00] Add tax report generation
 [2029-04-28T09:00:00] Implement PDF export for reports
 [2029-04-29T13:30:00] Add quarterly summary reports
+[2029-04-30T10:15:00] Fix report formatting issues
