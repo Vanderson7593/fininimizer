@@ -274,3 +274,4 @@
 [2029-02-25T16:30:00] Fix OCR confidence scoring
 [2029-03-03T12:30:00] Fix household invite email
 [2029-03-03T15:00:00] Add household member avatars
+[2029-03-05T12:00:00] Update permission matrix
