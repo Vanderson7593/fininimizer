@@ -358,3 +358,4 @@
 [2029-07-01T16:30:00] Update voice prompt texts
 [2029-07-02T12:00:00] Fix NLP entity extraction
 [2029-07-02T14:30:00] Add intent classification
+[2029-07-03T12:30:00] Fix voice entry amount parsing
