@@ -345,3 +345,4 @@
 [2029-06-17T11:30:00] Fix swipe threshold
 [2029-06-17T14:00:00] Add swipe velocity detection
 [2029-06-17T16:30:00] Update swipe animation curves
+[2029-06-20T11:00:00] Fix widget layout constraints
