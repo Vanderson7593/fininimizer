@@ -224,3 +224,4 @@
 [2029-11-26T15:45:00] Implement year-over-year comparison
 [2029-11-27T09:30:00] Add net worth milestone tracker
 [2029-11-29T13:00:00] Fix milestone notification timing
+[2029-12-02T10:00:00] Add year-end summary generator
