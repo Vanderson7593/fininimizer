@@ -407,3 +407,4 @@
 [2029-08-29T12:30:00] Fix document upload size limit
 [2029-08-29T15:00:00] Add document OCR indexing
 [2029-08-29T17:30:00] Update vault search engine
+[2029-09-01T11:30:00] Fix scanner autofocus
