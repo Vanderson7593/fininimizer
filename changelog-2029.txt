@@ -353,3 +353,4 @@
 [2029-06-26T14:30:00] Add watch low power mode
 [2029-06-30T12:45:00] Update watch data compression
 [2029-06-30T15:00:00] Fix watch background refresh
+[2029-07-01T11:30:00] Fix voice command parsing
