@@ -201,3 +201,4 @@
 [2029-10-24T16:30:00] Implement Roth conversion analyzer
 [2029-10-27T09:45:00] Add estate planning overview
 [2029-10-28T13:15:00] Implement beneficiary management
+[2029-10-29T10:30:00] Add trust and will document links
