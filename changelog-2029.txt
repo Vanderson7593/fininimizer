@@ -396,3 +396,4 @@
 [2029-08-11T14:00:00] Add custom payment schedules
 [2029-08-14T11:00:00] Fix Monte Carlo seed
 [2029-08-14T13:30:00] Add scenario comparison view
+[2029-08-14T16:00:00] Update simulation parameters
