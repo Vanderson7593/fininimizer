@@ -96,3 +96,4 @@
 [2029-05-29T15:30:00] Fix report permission controls
 [2029-05-30T09:30:00] Add report template library
 [2029-06-02T10:00:00] Add dark mode support
+[2029-06-03T14:15:00] Implement theme engine
