@@ -52,3 +52,4 @@
 [2029-03-25T14:45:00] Fix decimal precision in splits
 [2029-03-26T10:15:00] Add savings goals tracker
 [2029-03-27T15:30:00] Implement goal milestones
+[2029-03-28T09:00:00] Add visual progress indicators
