@@ -18,3 +18,4 @@
 [2029-01-29T16:30:00] Add WebSocket connection manager
 [2029-01-31T11:00:00] Fix reconnection handling
 [2029-02-03T09:30:00] Add expense categorization engine
+[2029-02-04T14:00:00] Implement ML-based category prediction
