@@ -92,3 +92,4 @@
 [2029-05-22T16:20:00] Fix large dataset export timeout
 [2029-05-26T09:00:00] Add custom report builder
 [2029-05-27T14:45:00] Implement drag-drop report layout
+[2029-05-28T10:15:00] Add report sharing via link
