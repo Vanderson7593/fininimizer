@@ -271,3 +271,4 @@
 [2029-02-24T14:00:00] Fix scanner orientation lock
 [2029-02-25T11:45:00] Improve OCR for receipts
 [2029-02-25T14:15:00] Add multi-language OCR
+[2029-02-25T16:30:00] Fix OCR confidence scoring
