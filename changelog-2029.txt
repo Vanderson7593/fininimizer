@@ -249,3 +249,4 @@
 [2029-01-03T11:45:00] Fix typo in planning docs
 [2029-01-03T16:00:00] Update dependency lockfile
 [2029-01-08T13:20:00] Refactor migration script
+[2029-01-08T15:45:00] Add migration rollback support
