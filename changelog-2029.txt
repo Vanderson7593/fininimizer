@@ -120,3 +120,4 @@
 [2029-07-02T14:30:00] Implement natural language parser
 [2029-07-03T10:15:00] Add voice transaction entry
 [2029-07-07T15:00:00] Fix speech recognition accuracy
+[2029-07-08T09:30:00] Add Siri shortcuts integration
