@@ -194,3 +194,4 @@
 [2029-10-15T09:15:00] Add tax-loss harvesting alerts
 [2029-10-16T15:00:00] Fix harvest opportunity detection
 [2029-10-17T10:30:00] Add HSA and FSA tracker
+[2029-10-20T13:45:00] Implement contribution limit alerts
