@@ -332,3 +332,4 @@
 [2029-05-27T16:00:00] Fix preview rendering
 [2029-05-29T11:45:00] Update sharing permissions
 [2029-05-29T14:15:00] Fix share link expiration
+[2029-06-02T12:30:00] Fix dark mode toggle animation
