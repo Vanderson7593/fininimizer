@@ -309,3 +309,4 @@
 [2029-04-28T11:30:00] Fix PDF page breaks
 [2029-04-28T14:00:00] Add PDF watermark option
 [2029-04-29T11:00:00] Fix quarterly date ranges
+[2029-04-29T14:30:00] Add custom date range picker
