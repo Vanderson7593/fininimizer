@@ -36,3 +36,4 @@
 [2029-02-28T10:20:00] Fix image preprocessing pipeline
 [2029-03-03T09:00:00] Add shared household budgets
 [2029-03-04T14:15:00] Implement invitation system
+[2029-03-05T10:30:00] Add role-based permissions
