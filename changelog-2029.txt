@@ -221,3 +221,4 @@
 [2029-11-21T09:00:00] Add wishlist management
 [2029-11-22T14:30:00] Fix wishlist sync across devices
 [2029-11-25T10:00:00] Add annual financial review
+[2029-11-26T15:45:00] Implement year-over-year comparison
