@@ -295,3 +295,4 @@
 [2029-04-03T12:00:00] Optimize sync batch size
 [2029-04-03T14:30:00] Add sync progress indicator
 [2029-04-07T13:15:00] Fix credit card import
+[2029-04-07T15:45:00] Add recurring charge detection
