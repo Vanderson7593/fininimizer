@@ -290,3 +290,4 @@
 [2029-03-31T10:30:00] Fix shared goal permissions
 [2029-03-31T15:00:00] Add goal celebration effects
 [2029-04-01T12:30:00] Fix bank linking error handling
+[2029-04-01T15:00:00] Add retry logic for bank sync
