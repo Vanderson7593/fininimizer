@@ -26,3 +26,4 @@
 [2029-02-11T11:15:00] Implement trend analysis
 [2029-02-13T09:45:00] Add seasonal adjustment algorithms
 [2029-02-14T14:30:00] Fix date range calculations
+[2029-02-17T10:00:00] Add multi-currency support
