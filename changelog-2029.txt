@@ -480,3 +480,4 @@
 [2029-11-21T14:00:00] Add price drop notifications
 [2029-11-25T12:00:00] Fix review data aggregation
 [2029-11-25T14:30:00] Add review category filters
+[2029-11-25T17:00:00] Update review chart types
