@@ -471,3 +471,4 @@
 [2029-11-11T11:15:00] Fix rewards card matching
 [2029-11-11T14:00:00] Add spending category rewards
 [2029-11-11T16:30:00] Update rewards dashboard
+[2029-11-14T11:30:00] Fix hotel price comparison
