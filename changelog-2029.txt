@@ -280,3 +280,4 @@
 [2029-03-11T11:00:00] Fix push notification payload
 [2029-03-11T15:20:00] Add notification grouping
 [2029-03-14T11:30:00] Fix recurring date calculation
+[2029-03-14T13:45:00] Add custom recurrence rules
