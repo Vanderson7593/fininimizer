@@ -336,3 +336,4 @@
 [2029-06-02T15:00:00] Add system theme detection
 [2029-06-04T12:00:00] Update color palette generator
 [2029-06-04T14:30:00] Fix HSL conversion
+[2029-06-09T11:00:00] Fix typography scaling
