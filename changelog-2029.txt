@@ -488,3 +488,4 @@
 [2029-12-02T17:30:00] Update summary share options
 [2029-12-03T11:00:00] Fix category percentage calc
 [2029-12-03T13:30:00] Add subcategory drill-down
+[2029-12-05T11:30:00] Fix growth chart axis
