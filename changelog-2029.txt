@@ -70,3 +70,4 @@
 [2029-04-22T09:30:00] Implement tax lot accounting
 [2029-04-23T14:00:00] Add capital gains calculator
 [2029-04-24T10:45:00] Fix wash sale rule detection
+[2029-04-25T15:20:00] Add tax report generation
