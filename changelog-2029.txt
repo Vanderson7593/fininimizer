@@ -467,3 +467,4 @@
 [2029-11-07T11:30:00] Fix rewards point tracking
 [2029-11-07T14:00:00] Add rewards expiration alerts
 [2029-11-08T11:00:00] Fix optimization algorithm
+[2029-11-08T13:30:00] Add cashback vs points comparison
