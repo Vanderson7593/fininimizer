@@ -457,3 +457,4 @@
 [2029-10-28T11:30:00] Fix beneficiary form
 [2029-10-28T14:00:00] Add contingent beneficiaries
 [2029-10-31T11:00:00] Fix checklist completion state
+[2029-10-31T14:30:00] Add checklist share feature
