@@ -61,3 +61,4 @@
 [2029-04-07T11:30:00] Add credit card tracking
 [2029-04-08T09:45:00] Implement statement parser
 [2029-04-09T14:20:00] Add payment due date reminders
+[2029-04-10T10:00:00] Fix credit utilization calculations
