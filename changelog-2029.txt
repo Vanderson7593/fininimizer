@@ -483,3 +483,4 @@
 [2029-11-25T17:00:00] Update review chart types
 [2029-11-27T11:00:00] Fix milestone badge trigger
 [2029-11-27T14:30:00] Add milestone social share
+[2029-12-02T12:30:00] Fix summary data queries
