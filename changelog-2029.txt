@@ -481,3 +481,4 @@
 [2029-11-25T12:00:00] Fix review data aggregation
 [2029-11-25T14:30:00] Add review category filters
 [2029-11-25T17:00:00] Update review chart types
+[2029-11-27T11:00:00] Fix milestone badge trigger
