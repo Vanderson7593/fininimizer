@@ -258,3 +258,4 @@
 [2029-01-28T11:30:00] Optimize WebSocket payload size
 [2029-01-28T14:00:00] Add WebSocket heartbeat
 [2029-01-29T12:15:00] Fix heartbeat timeout logic
+[2029-02-03T11:00:00] Add category icon mapping
