@@ -476,3 +476,4 @@
 [2029-11-19T11:00:00] Fix deal expiration tracking
 [2029-11-19T13:30:00] Add deal alert preferences
 [2029-11-19T16:00:00] Update price comparison engine
+[2029-11-21T11:30:00] Fix wishlist priority sorting
