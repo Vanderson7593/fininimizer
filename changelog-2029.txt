@@ -276,3 +276,4 @@
 [2029-03-03T15:00:00] Add household member avatars
 [2029-03-05T12:00:00] Update permission matrix
 [2029-03-05T14:30:00] Add permission audit log
+[2029-03-05T16:45:00] Fix audit log pagination
