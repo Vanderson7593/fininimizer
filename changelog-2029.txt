@@ -186,3 +186,4 @@
 [2029-10-03T09:30:00] Add deduction optimizer
 [2029-10-06T15:45:00] Fix AMT calculation logic
 [2029-10-07T10:20:00] Add estimated tax payments
+[2029-10-08T13:30:00] Implement quarterly tax reminders
