@@ -41,3 +41,4 @@
 [2029-03-07T11:20:00] Add activity feed for shared budgets
 [2029-03-10T09:45:00] Implement notification preferences
 [2029-03-11T13:30:00] Add push notification service
+[2029-03-12T10:00:00] Fix notification delivery timing
