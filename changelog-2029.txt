@@ -268,3 +268,4 @@
 [2029-02-10T16:30:00] Update forecast charts
 [2029-02-18T11:30:00] Fix exchange rate cache TTL
 [2029-02-18T13:00:00] Add rate fallback provider
+[2029-02-24T14:00:00] Fix scanner orientation lock
