@@ -325,3 +325,4 @@
 [2029-05-13T11:00:00] Fix health score edge cases
 [2029-05-13T14:20:00] Add score breakdown view
 [2029-05-13T16:45:00] Update score factor weights
+[2029-05-20T11:30:00] Fix JSON serialization
