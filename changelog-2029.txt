@@ -181,3 +181,4 @@
 [2029-09-26T15:00:00] Fix dispute workflow edge cases
 [2029-09-29T09:30:00] Add credit improvement roadmap
 [2029-09-30T13:00:00] Implement actionable credit tips
+[2029-10-01T10:00:00] Add tax planning dashboard
