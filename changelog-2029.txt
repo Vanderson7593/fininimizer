@@ -461,3 +461,4 @@
 [2029-10-31T17:00:00] Update checklist reminders
 [2029-11-01T12:30:00] Fix budget template
 [2029-11-01T15:00:00] Add budget rollover option
+[2029-11-04T11:00:00] Fix gift list sorting
