@@ -497,3 +497,4 @@
 [2029-12-10T11:15:00] Fix coast FIRE age calc
 [2029-12-10T13:45:00] Add inflation adjustment
 [2029-12-12T11:30:00] Fix audit scan frequency
+[2029-12-12T14:00:00] Add unused trial detection
