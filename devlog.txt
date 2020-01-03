@@ -1,1 +1,2 @@
 # Project Development Log
+[2020-01-03T09:15:00] Add initial configuration files
