@@ -12,3 +12,4 @@
 [2020-01-22T15:00:00] Update dependency versions
 [2020-01-23T10:10:00] Add error handling utilities
 [2020-01-27T14:30:00] Implement logging module
+[2020-01-28T09:50:00] Add unit test setup
