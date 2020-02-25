@@ -27,3 +27,4 @@
 [2020-02-19T14:20:00] Add caching layer
 [2020-02-20T08:50:00] Optimize query performance
 [2020-02-24T11:30:00] Refactor service layer
+[2020-02-25T16:00:00] Add integration tests
