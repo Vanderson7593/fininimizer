@@ -31,3 +31,4 @@
 [2020-02-27T09:40:00] Fix failing test cases
 [2020-02-28T13:15:00] Update API documentation
 [2020-03-02T10:30:00] Add input sanitization
+[2020-03-03T15:00:00] Implement rate limiting
