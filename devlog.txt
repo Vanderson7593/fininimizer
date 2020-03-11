@@ -35,3 +35,4 @@
 [2020-03-05T09:20:00] Add request middleware
 [2020-03-06T14:45:00] Fix middleware ordering
 [2020-03-09T11:10:00] Add notification system
+[2020-03-11T08:30:00] Implement email templates
