@@ -40,3 +40,4 @@
 [2020-03-13T10:50:00] Fix job queue handling
 [2020-03-16T14:00:00] Add file upload support
 [2020-03-18T09:30:00] Implement image processing
+[2020-03-19T13:40:00] Add storage abstraction
