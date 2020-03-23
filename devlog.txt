@@ -41,3 +41,4 @@
 [2020-03-16T14:00:00] Add file upload support
 [2020-03-18T09:30:00] Implement image processing
 [2020-03-19T13:40:00] Add storage abstraction
+[2020-03-23T11:15:00] Refactor error responses
