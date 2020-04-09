@@ -53,3 +53,4 @@
 [2020-04-06T14:50:00] Implement theme support
 [2020-04-07T10:20:00] Add accessibility features
 [2020-04-08T15:40:00] Fix responsive layout
+[2020-04-09T08:30:00] Add keyboard shortcuts
