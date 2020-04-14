@@ -55,3 +55,4 @@
 [2020-04-08T15:40:00] Fix responsive layout
 [2020-04-09T08:30:00] Add keyboard shortcuts
 [2020-04-13T11:00:00] Implement undo/redo system
+[2020-04-14T14:15:00] Add drag and drop support
